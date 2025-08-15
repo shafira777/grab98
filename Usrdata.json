@@ -12,21 +12,14 @@
         "Allowoffline": false
     },
     {
-        "device_id": "a52fa3c05395a73d",
-        "key": "key67890",
-        "expirydate": "16-08-2025",
-        "Allowoffline": false
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     },
     {
         "device_id": "a52fa3c05395a73d",
-        "key": "master",
-        "expirydate": "15-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "a52fa3c05395a73d",
-        "key": "1234567",
+        "key": "key1212",
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
-     
