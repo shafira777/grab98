@@ -1,2 +1,0 @@
-# DeviceActivasion
-DeviceActivation
